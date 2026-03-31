@@ -27,7 +27,3 @@ dist-ssr
 .DS_Store
 Thumbs.db
 
-# Build results
-dist
-dist-ssr
-package-lock.json
